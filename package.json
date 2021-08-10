@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "isnumber": "^1.0.0",
-    "learn-browser": "^0.1.17"
+    "learn-browser": "^0.1.17",
+    "react": "^17.0.2"
   },
   "repository": {
     "type": "git",
